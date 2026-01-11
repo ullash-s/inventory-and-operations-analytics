@@ -41,6 +41,6 @@ The client received a single, unified system to manage daily operations, monitor
 
 ![Finance Analytics](./dashboards/wholesale-retail-finance-system/screenshots/Finance%20analytics.png)
 
-![Inventory Master Sheet](./dashboards/wholesale-retail-finance-system/screenshots/Inventory%20Master%20sheet.png)
+![Inventory master sheet](./dashboards/wholesale-retail-finance-system/screenshots/Inventory%20master%20sheet.png)
 
 
