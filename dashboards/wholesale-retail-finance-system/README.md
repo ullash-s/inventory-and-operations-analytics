@@ -29,11 +29,18 @@ Microsoft Excel, advanced formulas, structured system design, business analytics
 The client received a single, unified system to manage daily operations, monitor financial health, track outstanding payments, and control inventory. This replaced multiple disconnected sheets and enabled clearer, faster business decisions.
 
 ## Screenshots
-![Navigation](screenshots/navigation.png)
-![Dashboard](screenshots/dashboard.png)
-![Expenses](screenshots/expenses.png)
-![Wholesale](screenshots/wholesale.png)
-![Retail](screenshots/retail.png)
-![Finance](screenshots/finance.png)
-![Inventory](screenshots/inventory.png)
+![Navigation Menu](./dashboards/wholesale-retail-finance-system/screenshots/Navigation%20menu.png)
+
+![Dashboard](./dashboards/wholesale-retail-finance-system/screenshots/Dashboard.png)
+
+![Expenses System](./dashboards/wholesale-retail-finance-system/screenshots/Expenses%20system.png)
+
+![Wholesale Sales](./dashboards/wholesale-retail-finance-system/screenshots/Wholesale%20sales.png)
+
+![Retail Sales](./dashboards/wholesale-retail-finance-system/screenshots/Retail%20sales.png)
+
+![Finance Analytics](./dashboards/wholesale-retail-finance-system/screenshots/Finance%20analytics.png)
+
+![Inventory Sheet](./dashboards/wholesale-retail-finance-system/screenshots/Inventory%20sheet.png)
+
 
