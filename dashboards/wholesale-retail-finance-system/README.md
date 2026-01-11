@@ -31,7 +31,7 @@ The client received a single, unified system to manage daily operations, monitor
 ## Screenshots
 ![Navigation Menu](./dashboards/wholesale-retail-finance-system/screenshots/Navigation%20menu.png)
 
-![Main Dashboard](./dashboards/wholesale-retail-finance-system/screenshots/Main%20Dashboard.png)
+![Main dashboard](./dashboards/wholesale-retail-finance-system/screenshots/Main%20dashboard.png)
 
 ![Expenses System](./dashboards/wholesale-retail-finance-system/screenshots/Expenses%20system.png)
 
